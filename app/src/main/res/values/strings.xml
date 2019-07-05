@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Charity Miles</string>
+    <string name="mph">mph</string>
+    <string name="mi">mi</string>
+    <string name="finished">Finished</string>
+    <string name="default_0">0.000</string>
+    <string name="aftershok_headphones_don_t_sit_inside_your_ears_n_they_don_t_sit_on_your_ears_n_th">AfterShok headphones don\'t sit inside your ears. \n They don\'t sit on your ears.</string>
+    <string name="hey_good_looking_why_not_sanp_a_photo_to_share_after_your_workout">Hey, good looking. Why not sanp a photo to share after your workout?</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="_1_workout_total">1 Workout Total</string>
+    <string name="current_streak_1_day">Current streak: 1 Day</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="_00_00">00:00</string>
+    <string name="finish_workout">Finish Workout</string>
+    <string name="are_you_sure_want_to_stop_now">Are you sure want to stop now?</string>
+    <string name="finish">Finish</string>
+    <string name="continue_">Continue</string>
+</resources>
